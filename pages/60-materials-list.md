@@ -19,3 +19,10 @@ title: Materials
 |Nozzle insert|1| |
 |2 inch PVC coupling routaning bolt template|1| |
 |PVC nozzle asembally|1| |
+|Masking Tape
+|Divergant paper one|1|| |
+|hydraulic cement { Mc Master Part number 7685T42}|1|| |
+|3 ounce disposable cup |1|| |
+|Thick steel washer|1|| |
+|2 inch pvc pipe|1|| |
+| |1|| |
