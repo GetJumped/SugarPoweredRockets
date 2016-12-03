@@ -12,10 +12,10 @@ title: Materials
 |1 1/2 PVC Pipe, 1/2" long|1| Home Depot| |
 |Scotch tape|1|| |
 |Red hot blue glue|1|Home Depot |
-|2 Inch 40 PVC Coupling|1| |
-|1 1/2 inch x2inch PVC reducing brushing|1| |
+|2 Inch PVC Coupling|1| |
+|1 1/2 inch x 2 inch PVC reducing brushing|1| |
 |Masking Tape|1| |
-|hydraulic cement|1|Home Depot| |
+|Hydraulic cement|1|Home Depot| |
 |3 ounce disposable cup |1|| |
 | 0.781 inch ID, 1.625 inch steel washer|1| | |
 
