@@ -3,8 +3,9 @@ layout: page
 title: Materials
 ---
 
+## Materials List
 
-### Materials for the nozzle
+### Nozzle
 
 |Item|Qty|Source|
 |---|---|---|
@@ -19,17 +20,22 @@ title: Materials
 |3 ounce disposable cup |1|Grocery Store|
 | 0.781 inch ID, 1.625 inch steel washer|1|[Amazon](https://www.amazon.com/gp/product/B004K1FAVE/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)|
 
-### Materials for the igniter
+### Igniter
 
 |Item|Qty|Source|
 |---|---|---|
 
-### Materials for the coring rod
+### Coring Rod
 
 |Item|Qty|Source|
 |---|---|---|
 
-### Materials for the fuel
+### Rocket Fuel
+
+|Item|Qty|Source|
+|---|---|---|
+
+### Test Stand
 
 |Item|Qty|Source|
 |---|---|---|
