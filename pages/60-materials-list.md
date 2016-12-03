@@ -18,3 +18,18 @@ title: Materials
 |hydraulic cement|1|Home Depot| |
 |3 ounce disposable cup |1|| |
 | 0.781 inch ID, 1.625 inch steel washer|1| | |
+
+### Materials for the igniter
+
+|Item|Qty|Source|url|
+|---|---|---|---|
+
+### Materials for the coring rod
+
+|Item|Qty|Source|url|
+|---|---|---|---|
+
+### Materials for the fuel
+
+|Item|Qty|Source|url|
+|---|---|---|---|
