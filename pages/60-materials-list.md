@@ -8,7 +8,7 @@ title: Materials
 
 |Item|Qty|Source|url|
 |---|---|---|---|
-|K450 Nozzle template|1| Inverse Engineering |www.inverseengineering.com |
+|K450 Nozzle template|1| Inverse Engineering |[Inverse Engineering](http://www.inverseengineering.com)|
 |1 1/2 PVC Pipe|1|| |
 |Scotch tape|1|| |
 |1 1/2 PVC Nozzle inset template|1| |
