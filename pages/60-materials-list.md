@@ -13,7 +13,7 @@ title: Materials
 |Scotch tape|1|| |
 |Red hot blue glue|1|Home Depot |
 |2 Inch PVC Coupling|1| |
-|1 1/2 inch x 2 inch PVC reducing brushing|1| |
+|1 1/2 inch x 2 inch PVC reducing brushing|1|Amazon|[Amazon](https://www.amazon.com/gp/product/B008I4BVZS/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
 |Masking Tape|1| |
 |Hydraulic cement|1|Home Depot| |
 |3 ounce disposable cup |1|| |
