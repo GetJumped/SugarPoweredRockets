@@ -9,19 +9,12 @@ title: Materials
 |Item|Qty|Source|url|
 |---|---|---|---|
 |K450 Nozzle template|1| Inverse Engineering |[Inverse Engineering](http://www.inverseengineering.com)|
-|1 1/2 PVC Pipe|1|| |
+|1 1/2 PVC Pipe, 1/2" long|1| Home Depot| |
 |Scotch tape|1|| |
-|1 1/2 PVC Nozzle inset template|1| |
-|Epoxy|1| |
+|Red hot blue glue|1|Home Depot |
 |2 Inch 40 PVC Coupling|1| |
-|1 1/2 inch x2inch 4o pvc reducing brushing|1| |
-|Nozzle insert|1| |
-|2 inch PVC coupling routaning bolt template|1| |
-|PVC nozzle asembally|1| |
-|Masking Tape
-|Divergant paper one|1|| |
-|hydraulic cement { Mc Master Part number 7685T42}|1|| |
+|1 1/2 inch x2inch PVC reducing brushing|1| |
+|Masking Tape|1| |
+|hydraulic cement|1|Home Depot| |
 |3 ounce disposable cup |1|| |
-|Thick steel washer|1|| |
-|2 inch pvc pipe|1|| |
-| |1|| |
+| 0.781 inch ID, 1.625 inch steel washer|1| | |
