@@ -6,7 +6,7 @@ title: Materials
 ### Nozzle
 
 |Item|Qty|Source|
-|---|---|---|
+|---|:---:|---|
 |K450 Nozzle template|1|[Inverse Engineering](http://www.inverseengineering.com)|
 |1 1/2 PVC Pipe, 1/2" long|1| Home Depot|
 |Scotch tape|1|Grocery Store|
