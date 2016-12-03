@@ -3,8 +3,6 @@ layout: page
 title: Materials
 ---
 
-## Materials List
-
 ### Nozzle
 
 |Item|Qty|Source|
